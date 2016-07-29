@@ -4,6 +4,7 @@ _nama = "Waviq"
 Nama = 'waviq'
 nama = 'waviq'
 umur = 25
+update = true
 
 print(nama + format(' '+nama))
 print(nama + str(umur))
